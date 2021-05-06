@@ -1,0 +1,12 @@
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\bin\Debug\netcoreapp3.1\LacosRepeticao.exe
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\bin\Debug\netcoreapp3.1\LacosRepeticao.deps.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\bin\Debug\netcoreapp3.1\LacosRepeticao.runtimeconfig.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\bin\Debug\netcoreapp3.1\LacosRepeticao.runtimeconfig.dev.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\bin\Debug\netcoreapp3.1\LacosRepeticao.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\bin\Debug\netcoreapp3.1\LacosRepeticao.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\obj\Debug\netcoreapp3.1\LacosRepeticao.AssemblyInfoInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\obj\Debug\netcoreapp3.1\LacosRepeticao.AssemblyInfo.cs
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\obj\Debug\netcoreapp3.1\LacosRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\obj\Debug\netcoreapp3.1\LacosRepeticao.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\obj\Debug\netcoreapp3.1\LacosRepeticao.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\LacosRepeticao\obj\Debug\netcoreapp3.1\LacosRepeticao.genruntimeconfig.cache

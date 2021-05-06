@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "911 - instrucoesSelecao/1.0.0": {
+        "runtime": {
+          "911 - instrucoesSelecao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "911 - instrucoesSelecao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

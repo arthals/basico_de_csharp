@@ -1,0 +1,13 @@
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\bin\Debug\netcoreapp3.1\7 - Enumerador.exe
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\bin\Debug\netcoreapp3.1\7 - Enumerador.deps.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\bin\Debug\netcoreapp3.1\7 - Enumerador.runtimeconfig.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\bin\Debug\netcoreapp3.1\7 - Enumerador.runtimeconfig.dev.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\bin\Debug\netcoreapp3.1\7 - Enumerador.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\bin\Debug\netcoreapp3.1\7 - Enumerador.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\obj\Debug\netcoreapp3.1\7 - Enumerador.csprojAssemblyReference.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\obj\Debug\netcoreapp3.1\7 - Enumerador.AssemblyInfoInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\obj\Debug\netcoreapp3.1\7 - Enumerador.AssemblyInfo.cs
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\obj\Debug\netcoreapp3.1\7 - Enumerador.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\obj\Debug\netcoreapp3.1\7 - Enumerador.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\obj\Debug\netcoreapp3.1\7 - Enumerador.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\9 - Enumerador\obj\Debug\netcoreapp3.1\7 - Enumerador.genruntimeconfig.cache

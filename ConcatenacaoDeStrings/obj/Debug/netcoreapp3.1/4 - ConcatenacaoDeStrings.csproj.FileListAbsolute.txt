@@ -1,0 +1,13 @@
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\bin\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.exe
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\bin\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.deps.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\bin\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.runtimeconfig.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\bin\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.runtimeconfig.dev.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\bin\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\bin\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\obj\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.AssemblyInfoInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\obj\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.AssemblyInfo.cs
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\obj\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\obj\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\obj\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\obj\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.genruntimeconfig.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\ConcatenacaoDeStrings\obj\Debug\netcoreapp3.1\4 - ConcatenacaoDeStrings.csprojAssemblyReference.cache

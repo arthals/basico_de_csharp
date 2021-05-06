@@ -1,0 +1,13 @@
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\TiposDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\TiposDeVariaveis.AssemblyInfo.cs
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\TiposDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\TiposDeVariaveis.exe
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\TiposDeVariaveis.deps.json
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\TiposDeVariaveis.runtimeconfig.json
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\TiposDeVariaveis.runtimeconfig.dev.json
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\TiposDeVariaveis.dll
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\TiposDeVariaveis.pdb
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\TiposDeVariaveis.dll
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\TiposDeVariaveis.pdb
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\TiposDeVariaveis.genruntimeconfig.cache
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\TiposDeVariaveis.csprojAssemblyReference.cache

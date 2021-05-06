@@ -1,0 +1,12 @@
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\bin\Debug\netcoreapp3.1\8 - Logicos Booleanos.exe
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\bin\Debug\netcoreapp3.1\8 - Logicos Booleanos.deps.json
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\bin\Debug\netcoreapp3.1\8 - Logicos Booleanos.runtimeconfig.json
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\bin\Debug\netcoreapp3.1\8 - Logicos Booleanos.runtimeconfig.dev.json
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\bin\Debug\netcoreapp3.1\8 - Logicos Booleanos.dll
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\bin\Debug\netcoreapp3.1\8 - Logicos Booleanos.pdb
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\obj\Debug\netcoreapp3.1\8 - Logicos Booleanos.AssemblyInfoInputs.cache
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\obj\Debug\netcoreapp3.1\8 - Logicos Booleanos.AssemblyInfo.cs
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\obj\Debug\netcoreapp3.1\8 - Logicos Booleanos.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\obj\Debug\netcoreapp3.1\8 - Logicos Booleanos.dll
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\obj\Debug\netcoreapp3.1\8 - Logicos Booleanos.pdb
+C:\Users\Vinicius Anastácio\source\repos\ConsoleApp2\8 - Logicos Booleanos\obj\Debug\netcoreapp3.1\8 - Logicos Booleanos.genruntimeconfig.cache

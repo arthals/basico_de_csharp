@@ -1,0 +1,12 @@
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\bin\Debug\netcoreapp3.1\910 - PraticaMetodos.exe
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\bin\Debug\netcoreapp3.1\910 - PraticaMetodos.deps.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\bin\Debug\netcoreapp3.1\910 - PraticaMetodos.runtimeconfig.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\bin\Debug\netcoreapp3.1\910 - PraticaMetodos.runtimeconfig.dev.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\bin\Debug\netcoreapp3.1\910 - PraticaMetodos.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\bin\Debug\netcoreapp3.1\910 - PraticaMetodos.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\obj\Debug\netcoreapp3.1\910 - PraticaMetodos.AssemblyInfoInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\obj\Debug\netcoreapp3.1\910 - PraticaMetodos.AssemblyInfo.cs
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\obj\Debug\netcoreapp3.1\910 - PraticaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\obj\Debug\netcoreapp3.1\910 - PraticaMetodos.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\obj\Debug\netcoreapp3.1\910 - PraticaMetodos.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\PraticaMetodos\obj\Debug\netcoreapp3.1\910 - PraticaMetodos.genruntimeconfig.cache

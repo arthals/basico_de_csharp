@@ -1,0 +1,13 @@
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\bin\Debug\netcoreapp3.1\3 - Operacoes.exe
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\bin\Debug\netcoreapp3.1\3 - Operacoes.deps.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\bin\Debug\netcoreapp3.1\3 - Operacoes.runtimeconfig.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\bin\Debug\netcoreapp3.1\3 - Operacoes.runtimeconfig.dev.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\bin\Debug\netcoreapp3.1\3 - Operacoes.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\bin\Debug\netcoreapp3.1\3 - Operacoes.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\obj\Debug\netcoreapp3.1\3 - Operacoes.csprojAssemblyReference.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\obj\Debug\netcoreapp3.1\3 - Operacoes.AssemblyInfoInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\obj\Debug\netcoreapp3.1\3 - Operacoes.AssemblyInfo.cs
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\obj\Debug\netcoreapp3.1\3 - Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\obj\Debug\netcoreapp3.1\3 - Operacoes.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\obj\Debug\netcoreapp3.1\3 - Operacoes.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\4 - Operacoes\obj\Debug\netcoreapp3.1\3 - Operacoes.genruntimeconfig.cache

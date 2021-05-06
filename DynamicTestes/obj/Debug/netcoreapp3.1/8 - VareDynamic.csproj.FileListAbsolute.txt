@@ -1,0 +1,13 @@
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\bin\Debug\netcoreapp3.1\8 - VareDynamic.exe
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\bin\Debug\netcoreapp3.1\8 - VareDynamic.deps.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\bin\Debug\netcoreapp3.1\8 - VareDynamic.runtimeconfig.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\bin\Debug\netcoreapp3.1\8 - VareDynamic.runtimeconfig.dev.json
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\bin\Debug\netcoreapp3.1\8 - VareDynamic.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\bin\Debug\netcoreapp3.1\8 - VareDynamic.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\obj\Debug\netcoreapp3.1\8 - VareDynamic.csprojAssemblyReference.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\obj\Debug\netcoreapp3.1\8 - VareDynamic.AssemblyInfoInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\obj\Debug\netcoreapp3.1\8 - VareDynamic.AssemblyInfo.cs
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\obj\Debug\netcoreapp3.1\8 - VareDynamic.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\obj\Debug\netcoreapp3.1\8 - VareDynamic.dll
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\obj\Debug\netcoreapp3.1\8 - VareDynamic.pdb
+C:\Users\vinicius.anastacio\Desktop\ConsoleApp2\DynamicTestes\obj\Debug\netcoreapp3.1\8 - VareDynamic.genruntimeconfig.cache
